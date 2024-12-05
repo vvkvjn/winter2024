@@ -7,3 +7,8 @@
     (Replace {NAME} with your full name. 
 2. Create a file and name it as file_info. Disaply its attributes. 
 
+### 4-December-2024
+1. Create a cron job that will append the system's current memory usage (in MB) to the file `~/memory_log` every 10 minutes. 
+
+### 5-December-2024
+1. Code a shell script that will write the hostname,system information and currently logged-in users into a file called sys_info.txt
